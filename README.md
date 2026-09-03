@@ -2,8 +2,9 @@
 
 Unityの基礎知識をベースに、独学で設計・実装した3Dアバターのリアルタイム表情管理システムです。
 uGUIのボタン操作に応じ、アバターの表情差分（BlendShape）を滑らかに変更します。
-<img width="400" height="222" alt="Portfolio" src="https://github.com/user-attachments/assets/5d2a6466-3127-4134-9cf9-0f42368af8fd" />
 
+
+<img width="1298" height="720" alt="Portfolio (1)" src="https://github.com/user-attachments/assets/d6049bdb-d108-4d10-ab24-e213290b3ac0" />
 
 
 
